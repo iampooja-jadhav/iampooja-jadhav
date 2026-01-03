@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h2>👋 Hello, I'm Pooja Jadhav</h2>
 
 <p>
-A Cloud and DevOps learner from India 🇮🇳, focused on understanding cloud
+A Cloud and DevOps learner , focused on understanding cloud
 infrastructure, automation concepts, and modern DevOps practices.
 </p>
 
